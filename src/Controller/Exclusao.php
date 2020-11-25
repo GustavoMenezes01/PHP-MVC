@@ -7,6 +7,7 @@ use Alura\Cursos\Infra\EntityManagerCreator;
 
 class Exclusao implements InterfaceControladorRequisicao
 {
+    use FlashMessageTrait; 
     /**
      * @var \Doctrine\ORM\EntityManagerInterface
      */
