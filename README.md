@@ -1,4 +1,4 @@
-# PHP-9
+# PHP-MVC-XDEBUG
 
 Repositório referente aos curso de MVC, Refatoração e Xdebug, onde foi criado um site de lista de cursos no qual se pode adicionar, excluir e alterar esses cursos, um formulário de login e foram mostrados conceitos sobre MVC, HTTP, formulários e validação, sessões, PSRs e uma introdução a WEB Service.
 
